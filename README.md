@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KokujoTengenMyoo
+- 👀 I’m interested to expand my programming knowledge. this is where i will post completed and in progress projects.
